@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["557998295668@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '557998295668' 
 // mude para seu numero
 
 var gimagenotregister = false
@@ -59,7 +59,7 @@ const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = 'WHATSAPP KAWAII' 
+const cr = 'WHATSAPP KAWAII\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
@@ -160,9 +160,9 @@ let mess = {
 
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
-+ 'FN:Meu criador^~^\n' 
++ 'FN:🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦🇦' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
++ 'TEL;type=CELL;type=VOICE;waid=557998295668:+55 79 9829-5668\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
